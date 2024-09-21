@@ -5,4 +5,16 @@ div{
     font-size: large;
     font-weight:bold;
 }
+<<<<<<< HEAD
 
+=======
+p{
+    background-color:green;
+    color:white;
+}
+button{
+    background-color:rgb(236, 151, 33);
+    border-width: 1px;
+    ;
+}
+>>>>>>> cf74521a915980a7506637084770db75426d18e2
